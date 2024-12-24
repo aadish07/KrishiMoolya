@@ -1,0 +1,19 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transform: none !important;
+  overflow: visible !important;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+  padding-top: 64px; /* Account for AppBar height if position is fixed */
+}

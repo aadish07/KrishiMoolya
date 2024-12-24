@@ -1,0 +1,114 @@
+/* Center the form with a clean, modern background */
+.crop-prediction-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;  /* Align items at the top for better scroll behavior */
+    flex-wrap: wrap;
+    min-height: 100vh;
+    padding: 20px;
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    gap: 20px;
+    overflow-y: auto; /* Enables vertical scrolling */
+    max-height: 100vh; /* Ensures the container does not exceed the viewport height */
+    scroll-behavior: smooth; /* Smooth scrolling */
+}
+
+/* Sleek card styling for the prediction form */
+.crop-prediction-card {
+    width: 40%;
+    min-width: 300px;
+    padding: 25px;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid #e0e0e0;
+    overflow-y: auto;  /* Enables scrolling inside card */
+    max-height: 400px; /* Limit the card height to make scrolling inside it possible */
+    scroll-behavior: smooth;
+}
+
+/* Interactive hover effect for the card */
+.crop-prediction-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    border: 1px solid #1976d2;
+}
+
+/* Typography styling for the title */
+.crop-prediction-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Input field styling */
+.crop-prediction-textfield .MuiOutlinedInput-root {
+    background: #f9f9f9;
+    border-radius: 8px;
+}
+
+.crop-prediction-textfield label {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Adjust spacing for input fields */
+.crop-prediction-textfield {
+    margin-bottom: 20px;
+}
+
+/* Highlight effect on focused input */
+.crop-prediction-textfield .MuiOutlinedInput-root.Mui-focused {
+    border: 1px solid #1976d2;
+    box-shadow: 0 0 4px rgba(25, 118, 210, 0.5);
+}
+
+/* Modern button styling */
+.crop-prediction-button {
+    margin-top: 20px;
+    padding: 12px 18px;
+    background-color: #1976d2;
+    color: white;
+    font-weight: 500;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.3s ease;
+}
+
+.crop-prediction-button:hover {
+    background-color: #145a9e;
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Alert styling for success and error messages */
+.crop-prediction-alert {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    border-radius: 8px;
+    padding: 10px 15px;
+}
+
+/* Responsive design for smaller devices */
+@media (max-width: 768px) {
+    .recommendation-card {
+        width: 80%;
+    }
+}
+
+@media (max-width: 480px) {
+    .crop-prediction-title {
+        font-size: 1.4rem;
+    }
+    .crop-prediction-button {
+        font-size: 1rem;
+        padding: 10px 15px;
+    }
+}

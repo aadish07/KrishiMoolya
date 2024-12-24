@@ -1,0 +1,47 @@
+.prediction-container {
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the forms horizontally */
+    align-items: flex-start; /* Align forms at the top */
+    gap: 20px; /* Space between the forms */
+    padding: 20px;
+  }
+  
+  .prediction-container > * {
+    flex: 1 1 45%; /* Each form takes up 45% of the width (side-by-side) */
+    max-width: 600px; /* Limit the max width of each form */
+    min-width: 300px; /* Ensure the form doesn't shrink too much */
+    box-sizing: border-box; /* Include padding/border in width calculations */
+    margin-top: 100px;
+  }
+  .css-zpco3w{
+    color: green;
+
+  }
+  /* Add this to your existing PredictionPage.css */
+.chat-page {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+  }
+
+  /* Add to your existing CSS */
+  .animate-bounce {
+    animation: bounce 1s infinite;
+  }
+  
+  .animate-spin {
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-25%); }
+  }
+  
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }

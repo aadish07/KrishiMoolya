@@ -1,0 +1,663 @@
+[
+  {
+    "Crop": "Barley",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 2113.14,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 2113.14,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 2151.92,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 2049.88,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 2158.06,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 2082.26,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 2237.98,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 2123.36,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 2167.68,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 2205.45,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 2084.08,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 2125.61,
+        "PriceChangeIndicator": 1
+      }
+    ]
+  },
+  {
+    "Crop": "Gram",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 5402.48,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 5402.48,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 5226.58,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 5525.49,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 5610.69,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 5496,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 5190.02,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 5372.1,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 5592.43,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 5389.03,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 5621.81,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 5003.92,
+        "PriceChangeIndicator": -1
+      }
+    ]
+  },
+  {
+    "Crop": "Groundnuts",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 5725.86,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 5725.86,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 5541.21,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 5852.1,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 5459.52,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 5622.5,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 5808.97,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 5807.15,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 5569.03,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 6224,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 5796.33,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 5631.8,
+        "PriceChangeIndicator": -1
+      }
+    ]
+  },
+  {
+    "Crop": "Jowar",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 2299.02,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 2299.02,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 2435.69,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 2259.94,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 2282.83,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 2131.73,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 2367.76,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 2275.27,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 2336.97,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 2255.06,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 2302.93,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 2395.3,
+        "PriceChangeIndicator": 1
+      }
+    ]
+  },
+  {
+    "Crop": "Maize",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 1860.64,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 1860.64,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 1856.38,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 1863.61,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 1830.83,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 1868.83,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 1811.05,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 1828.79,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 1851.43,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 2009.42,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 1844.35,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 1834.25,
+        "PriceChangeIndicator": -1
+      }
+    ]
+  },
+  {
+    "Crop": "Masoor",
+    "Year": 2025,
+    "Data": [
+      
+      {
+        "Month": 1,
+        "AveragePrice": 4139.44,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 4088.31,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 4239.7,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 4161.47,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 4043.76,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 4260.81,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 4212.04,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 4238.55,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 4151.33,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 4307.28,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 4225.15,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 12,
+        "AveragePrice": 4139.44,
+        "PriceChangeIndicator": 0
+      }
+    ]
+  },
+  {
+    "Crop": "Rice",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 3505.34,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 3505.34,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 3589.72,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 3438.98,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 3481.42,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 3350.98,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 3578.83,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 3446.67,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 3490.73,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 3352.45,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 3482.77,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 3555.31,
+        "PriceChangeIndicator": 1
+      }
+    ]
+  },
+  {
+    "Crop": "Soya Bean",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 4673.12,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 4673.12,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 4503.72,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 4605.15,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 4632.9,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 4534.23,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 4756.97,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 4603.45,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 4662.78,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 4714.56,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 4601.92,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 4782.29,
+        "PriceChangeIndicator": 1
+      }
+    ]
+  },
+  {
+    "Crop": "Wheat",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 2287.15,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 2287.15,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 2246.4,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 2303.72,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 2321.16,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 2256.78,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 2378.21,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 2292.59,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 2321.45,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 2255.36,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 2330.73,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 2400.28,
+        "PriceChangeIndicator": 1
+      }
+    ]
+  },
+  {
+    "Crop": "Musturd",
+    "Year": 2025,
+    "Data": [
+      {
+        "Month": 0,
+        "AveragePrice": 4081.35,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 1,
+        "AveragePrice": 4081.35,
+        "PriceChangeIndicator": 0
+      },
+      {
+        "Month": 2,
+        "AveragePrice": 3962.13,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 3,
+        "AveragePrice": 4115.88,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 4,
+        "AveragePrice": 4086.71,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 5,
+        "AveragePrice": 4192.34,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 6,
+        "AveragePrice": 4157.27,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 7,
+        "AveragePrice": 4262.67,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 8,
+        "AveragePrice": 4219.23,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 9,
+        "AveragePrice": 4138.68,
+        "PriceChangeIndicator": -1
+      },
+      {
+        "Month": 10,
+        "AveragePrice": 4273.45,
+        "PriceChangeIndicator": 1
+      },
+      {
+        "Month": 11,
+        "AveragePrice": 4204.71,
+        "PriceChangeIndicator": -1
+      }
+    ]
+  }
+]

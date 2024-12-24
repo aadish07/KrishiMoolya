@@ -1,0 +1,11 @@
+{
+    "navbar": {
+      "home": "Home",
+      "predictions": "Predictions",
+      "analysis": "Analysis",
+      "recommendation": "Recommendation",
+      "chat": "Krishi Chat",
+      "about": "About",
+      "contact": "Contact"
+    }
+  }
