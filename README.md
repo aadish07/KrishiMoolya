@@ -1,13 +1,13 @@
-# FarmtoFuture
+# KrishiMoolya
 AIML based Crop Price Prediction Model
 
-### Farm to Future 🌾  
-Welcome to **Farm to Future** – A platform that leverages technology to predict crop prices, empowering farmers with actionable insights for a better tomorrow.  
+### KrishiMoolya 🌾  
+Welcome to **Krishi Moolya** – A platform that leverages technology to predict crop prices, empowering farmers with actionable insights for a better tomorrow.  
 
 ---
 
 ## 🚀 Project Overview  
-Farm to Future is a crop price prediction tool designed to assist farmers, traders, and decision-makers in planning their agriculture-related activities. By utilizing historical data and advanced algorithms, this platform provides accurate price forecasts for various crops.  
+KrishiMoolya is a crop price prediction tool designed to assist farmers, traders, and decision-makers in planning their agriculture-related activities. By utilizing historical data and advanced algorithms, this platform provides accurate price forecasts for various crops.  
 
 ---
 
@@ -46,14 +46,14 @@ Follow these steps to set up the project on your local machine.
 ### Prerequisites  
 Ensure you have the following installed:  
 - Node.js and npm  
-- Python 3.x  
+- Python 3.2 and above 
 - Flask  
 - Required Python libraries (`flask`, `pandas`, etc.)  
 
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/Farm-to-Future.git  
+   git clone https://github.com/your-username/KrishiMoolya.git  
    ```  
 
 2. Navigate to the frontend directory and install dependencies:  
@@ -126,7 +126,7 @@ Predicts crop prices based on input parameters.
 ---
 
 ## 🌟 Contributing  
-We welcome contributions to improve **Farm to Future**!  
+We welcome contributions to improve **KrishiMoolya**!  
 
 1. Fork the repository.  
 2. Create a new branch for your feature:  
